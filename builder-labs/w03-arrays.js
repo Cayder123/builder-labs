@@ -13,4 +13,3 @@ for (const task of a) {
     console.log("Cong viec con lai:", task);
 }
 
-
